@@ -163,24 +163,26 @@ const FilterBar = ({
           <Kanban size={14} />
           Pipeline
         </button>
-        <button
-          onClick={() => setViewMode('map')}
-          style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: '6px',
-            padding: '8px 12px',
-            borderRadius: '6px',
-            border: 'none',
-            background: viewMode === 'map' ? '#334155' : 'transparent',
-            color: viewMode === 'map' ? '#f1f5f9' : '#64748b',
-            cursor: 'pointer',
-            fontSize: '12px'
-          }}
-        >
-          <MapPin size={14} />
-          Map
-        </button>
+        {mode === 'users' && (
+          <button
+            onClick={() => setViewMode('map')}
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '6px',
+              padding: '8px 12px',
+              borderRadius: '6px',
+              border: 'none',
+              background: viewMode === 'map' ? '#334155' : 'transparent',
+              color: viewMode === 'map' ? '#f1f5f9' : '#64748b',
+              cursor: 'pointer',
+              fontSize: '12px'
+            }}
+          >
+            <MapPin size={14} />
+            Map
+          </button>
+        )}
       </div>
 
       {/* Add Button */}
