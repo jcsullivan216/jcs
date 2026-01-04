@@ -17,7 +17,7 @@ const ListView = ({
     }));
   };
 
-  const sortedGroups = Object.entries(groupedData).sort((a, b) => b[1].length - a[1].length);
+  const sortedGroups = Object.entries(groupedData).sort((a, b) => a[0].localeCompare(b[0]));
 
   return (
     <div style={{
@@ -81,7 +81,7 @@ const ListView = ({
                 gap: '12px',
                 paddingLeft: '12px'
               }}>
-                {items.map(item => (
+                {[...items].sort((a, b) => a.name.localeCompare(b.name)).map(item => (
                   <ItemCard
                     key={item.id}
                     item={item}

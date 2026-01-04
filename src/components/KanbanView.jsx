@@ -12,8 +12,8 @@ import { useDraggable } from '@dnd-kit/core';
 import { statusConfig, getServiceColor } from '../data/config';
 import { User, GripVertical } from 'lucide-react';
 
-// All kanban columns including not-engaged
-const allKanbanColumns = ['not-engaged', 'contacted', 'engaged', 'deployed', 'contract', 'on-ice'];
+// Kanban columns (excluding not-engaged)
+const allKanbanColumns = ['contacted', 'engaged', 'deployed', 'contract', 'on-ice'];
 
 // Draggable card component
 const DraggableCard = ({ item, onClick, mode }) => {
