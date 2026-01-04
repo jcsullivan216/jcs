@@ -1,0 +1,274 @@
+Organization,Program/Office,Category,Service/Agency,Description
+OUSD ASD(A),Electronic Warfare,Electronic Warfare,OSD,Platform and Weapon Portfolio Management - Electronic Warfare division
+OUSD ASD(A),Cyber Warfare,Cyber/EW,OSD,Platform and Weapon Portfolio Management - Cyber Warfare division
+OUSD ASD(A),Command Control Communication Computers (C4) and Missile Defense,C4ISR,OSD,Strategic Space and Intelligence Portfolio Management
+OUSD ASD(A),Nuclear Command and Control and Communications,C2,OSD,Strategic communications and nuclear C2
+OSD (R&E),Chief Digital and Artificial Intelligence Office (CDAO),AI/Autonomy,OSD,Tradewinds acquisition ecosystem for AI/ML
+OSD (R&E) MDA,Integrated Non-Kinetic and Electronic Warfare,Electronic Warfare,OSD,Advanced Capabilities Office - EW integration
+OSD (R&E) MDA,Command Control Battle Management Communications (C2BMC),C4ISR,OSD,Decision dominance and C2
+OSD (I&S),ISR Enterprise Capabilities,ISR,OSD,Intelligence and Security Programs
+OSD (I&S),Battlespace Awareness & Security Programs,ISR,OSD,Intelligence and Security Programs
+OSD (I&S),Technical Collection,SIGINT,OSD,Collection and Special Programs
+DIU,Artificial Intelligence and Machine Learning (AI/ML),AI/Autonomy,OSD,Defense Innovation Unit technology portfolio
+DIU,Autonomy,Autonomy,OSD,Defense Innovation Unit autonomous systems portfolio
+DIU,Replicator 2,Autonomy,OSD,Autonomous systems replication program (now reports to SOCOM DAWG)
+DIU,Cyber and Telecommunications,Cyber/RF,OSD,Defense Innovation Unit cyber portfolio
+DIU,Space,Space/RF,OSD,Defense Innovation Unit space portfolio
+DISA,Defense Information Systems Agency,C4ISR,OSD,Information systems and networks
+DIA,Directorate for Science & Technology,Intelligence,OSD,Defense Intelligence Agency S&T
+DIA,Directorate for Operations,Intelligence,OSD,Defense Intelligence Agency operations
+DARPA,Information Innovation Office (I2O),AI/Autonomy/Cyber,DARPA,Information technology and autonomy research
+DARPA,Microsystems Technology Office,RF/Electronics,DARPA,Microsystems and RF technology
+DARPA,Strategic Technology Office,Multi-domain,DARPA,Strategic technology development
+DARPA,Tactical Technology Office,Autonomy/ISR,DARPA,Tactical systems and autonomy
+DARPA,Defense Sciences Office,Advanced Tech,DARPA,Foundational science research
+Army RCCTO,Cyber Electronic Warfare And Information Dominance,Electronic Warfare,Army,Rapid Capabilities and Critical Technologies Office
+Army RCCTO,Selective Propagation APS Radar (SPAR),RF/Radar,Army,Advanced radar systems
+Army RCCTO,Directed Energy Project Office,Directed Energy,Army,High energy laser and directed energy
+Army G-2,Intelligence Directorate,Intelligence,Army,Army staff intelligence
+Army G-2,INSCOM Army Intelligence and Security Command,SIGINT/Intelligence,Army,Army intelligence and security
+Army G-2,Army Counterintelligence Command,Intelligence,Army,Counterintelligence operations
+Army G-2,Foreign Intelligence Directorate (DAMI-FI),Intelligence,Army,Foreign intelligence collection
+Army G-6,Office of Emerging Technology (OET),Emerging Tech,Army,Network and emerging technology
+Army G-6,Networks and C4 Services and Integration (NC4SI),C4ISR,Army,Network integration
+Army G-6,Cybersecurity Integration and Synchronization (CIS),Cyber,Army,Cybersecurity integration
+CPE IEW&S,Capability Program Executive Intelligence Electronic Warfare & Sensor,EW/ISR/SIGINT,Army,Primary Army EW acquisition organization
+CPE IEW&S,PM Cyber and Space (PM C&S),Cyber/Space,Army,Cyber and space systems
+CPE IEW&S,Information Warfare Cyber Infrastructure (IWCI),Cyber,Army,Information warfare infrastructure
+CPE IEW&S,Information Warfare Cyber Development (IWCD),Cyber,Army,Cyber development programs
+CPE IEW&S,SAVANT CATALYST (SC),Cyber/AI,Army,Advanced cyber analytics
+CPE IEW&S,PM Defensive Cyber Operations (PM DCO),Cyber,Army,Defensive cyber operations
+CPE IEW&S,Cyber Analytics and Detection (CAD),Cyber/AI,Army,Cyber analytics platform
+CPE IEW&S,Cyber Platforms and Systems (CPS),Cyber,Army,Cyber platforms
+CPE IEW&S,PM Electronic Warfare and Cyber (PM EW&C),Electronic Warfare,Army,Primary Army EW program office
+CPE IEW&S,Electronic Attack (EA),Electronic Warfare,Army,Electronic attack systems
+CPE IEW&S,Electronic Warfare Integration (EWI),Electronic Warfare,Army,EW integration
+CPE IEW&S,Strategic Spectrum Warfare (SSW),Spectrum/EW,Army,Strategic spectrum operations
+CPE IEW&S,Terrestrial Spectrum Warfare (TSW),Spectrum/EW,Army,Ground-based spectrum warfare
+CPE IEW&S,PM Intelligence Systems and Analytics (PM IS&A),Intelligence/AI,Army,Intelligence systems
+CPE IEW&S,Data and Analytics,AI/Data,Army,Data analytics for intelligence
+CPE IEW&S,Intelligence Systems,ISR,Army,Intelligence collection systems
+CPE IEW&S,Project Linchpin,Intelligence,Army,Intelligence integration project
+CPE IEW&S,Joint Tactical Terminal (JTT),SIGINT,Army,Tactical SIGINT terminal
+CPE IEW&S,PM Positioning Navigation and Timing (PM PNT),PNT/RF,Army,PNT systems
+CPE IEW&S,Dismounted PNT,PNT,Army,Soldier PNT systems
+CPE IEW&S,PNT Modernization,PNT,Army,PNT modernization programs
+CPE IEW&S,PM Sensors Aerial Intelligence (PM SAI),ISR/Sensors,Army,Aerial ISR sensors
+CPE IEW&S,Aerial Enhanced Radars Optics and Sensors (AEROS),Radar/Sensors,Army,Aerial sensor systems
+CPE IEW&S,Medium Altitude Reconnaissance and Surveillance System (MARSS),ISR,Army,MARSS platform
+CPE IEW&S,Multi-Domain Sensing System (MDSS),ISR/Multi-domain,Army,Multi-domain sensing
+CPE IEW&S,Tactical Exploitation of National Capabilities (TENCAP),ISR/SIGINT,Army,National-tactical integration
+CPE IEW&S,PM Terrestrial Sensors (PM TS),Sensors/RF,Army,Ground sensor systems
+CPE IEW&S,Aerostats,ISR/RF,Army,Aerostat sensor platforms
+CPE IEW&S,Combat Terrain Information System (CTIS),ISR,Army,Terrain information systems
+CPE IEW&S,Force Protection Systems (FPS),Sensors/C-UAS,Army,Force protection sensors
+CPE IEW&S,Ground Sensors (GS),Sensors/RF,Army,Ground sensor systems
+CPE IEW&S,IEW&S Integration Directorate,Integration,Army,EW/ISR integration
+CPE IEW&S,Open Architecture and Standards,Architecture,Army,Open architecture for EW/ISR
+CPE IEW&S,Digital Testing and Engineering,Digital Engineering,Army,Digital engineering for EW
+CPE IEW&S,Command Control Communications and Network,C4,Army,C4 integration
+CPE IEW&S,NGC2,C2,Army,Next generation command and control
+PM CT2,PM Cyber Test and Training,Cyber,Army,Cyber training and test systems
+PM CT2,Persistent Cyber Training Environment (PCTE),Cyber,Army,Cyber training environment
+PM CT2,IEWTPT,EW Training,Army,IEW training platform
+PM CT2,Army Threat Systems Program EW,EW Training,Army,EW threat simulation
+DEVCOM,C5ISR Center,C5ISR,Army,Command Control Comms Computers Cyber Intel Surveillance Reconnaissance
+DEVCOM,Army Research Laboratory (ARL),Research,Army,Foundational research including RF/EW
+DEVCOM,Aviation & Missile Center,Aviation/Missiles,Army,Aviation and missile research
+Army AFC,Artificial Intelligence Integration Center (AI2C),AI,Army,AI integration center
+Army AFC,Intelligence Capability Development Integration Directorate,Intelligence,Army,Intelligence capability development
+Army AFC,Cyber Capability Development And Integration Directorate,Cyber,Army,Cyber capability development
+Army AFC,Air and Missile Defense Cross-Functional Team,AMD,Army,Air and missile defense modernization
+Army AFC,Command and Control Cross-Functional Team,C2,Army,C2 modernization
+Army AFC,Army Multi-Domain Targeting Center (AMTC),Multi-domain,Army,Multi-domain targeting
+T2COM,Intelligence Center of Excellence (ICoE),Intelligence,Army,Intelligence training and doctrine
+T2COM,Cyber Center of Excellence (CSoE),Cyber,Army,Cyber training and doctrine
+T2COM,Space and Missile Defense Center of Excellence (SMDCoE),Space/AMD,Army,Space and missile defense training
+T2COM,The Army Intelligence Battle Lab (IBL),Intelligence,Army,Intelligence battle lab
+G-TEAD,Global Tactical Edge Acquisition Directorate,Acquisition,Army,Tactical edge systems acquisition
+G-TEAD,Cyber Directorate,Cyber,Army,Cyber acquisition support
+CECOM,Army Communications-Electronics Command,C4ISR,Army,Communications-electronics support
+Secretary of the Navy,Navy Rapid Capabilities Office (NRCO),Rapid Acquisition,Navy,Navy rapid capabilities
+Secretary of the Navy,PEO Robotic and Autonomous Systems,Autonomy,Navy,Robotic and autonomous systems acquisition
+OPNAV,N2/N6 Information Warfare and Director of Naval Intelligence,Information Warfare,Navy,Navy information warfare
+OPNAV,N2/N6I Warfighting Integration,Integration,Navy,IW warfighting integration
+OPNAV,N2/N6T Strategic Integration,Integration,Navy,Strategic IW integration
+OPNAV,N9IZ Robotic Autonomous Systems Group,Autonomy,Navy,Autonomous systems requirements
+OPNAV,N9W Digital Warfare Office,Digital Warfare,Navy,Digital warfare requirements
+Office of Naval Intelligence,ONI Intelligence Directorate,Intelligence,Navy,Naval intelligence
+Office of Naval Intelligence,Farragut Technical Analysis Center,Intelligence,Navy,Technical analysis
+Office of Naval Intelligence,Kennedy Maritime Analysis Center,Intelligence,Navy,Maritime intelligence analysis
+Office of Naval Intelligence,Hopper Global Communications Center,Communications,Navy,Global communications
+NAVIFOR,Navy Information Forces,Information Warfare,Navy,Navy information forces command
+NAVIFOR,Naval Information Warfighting Development Center (NIWDC),Information Warfare,Navy,IW development center
+ONR,Code 31 - C5ISRT,C5ISR,Navy,Command Control Computing Communications Cyber Intelligence Surveillance Reconnaissance Targeting
+ONR,Division 311 - Mathematics Computer and Information Sciences,Computing/AI,Navy,Computer and information sciences research
+ONR,Division 312 - Electronics Sensors and Network Research,RF/Sensors,Navy,Electronics and sensors research
+ONR,Division 313 - Applications and Transitions,Transitions,Navy,Technology transition
+ONR,Code 32 - Ocean Battlespace Sensing,Sensors/ISR,Navy,Ocean sensing research
+ONR,Code 35 Division 353 - Directed Energy Programs,Directed Energy,Navy,Directed energy research
+Naval Research Laboratory,NRL,Research,Navy,Navy research laboratory
+PEO C4I,NAVWAR PEO Command Control Communications Computers and Intelligence,C4I,Navy,Primary Navy C4I acquisition
+PEO C4I,Project Overmatch,Integration,Navy,Navy network integration
+PEO C4I,PMA/PMW-101 Multifunctional Information Distribution System,Data Links,Navy,MIDS and tactical data links
+PEO C4I,MIDS Joint Tactical Radio System (JTRS),RF/Comms,Navy,Joint tactical radio
+PEO C4I,Advanced Tactical Data Links,Data Links,Navy,Advanced data links
+PEO C4I,Link 16 Waveform programs,RF/Comms,Navy,Link 16 programs
+PEO C4I,PMW 120 Battlespace Awareness & Information Operations,ISR,Navy,Battlespace awareness
+PEO C4I,Ships Signal Exploitation Equipment (SSEE),SIGINT,Navy,Shipboard SIGINT
+PEO C4I,Horizon,ISR,Navy,ISR system
+PEO C4I,Distributed Common Ground System-Navy (DCGS-N),ISR,Navy,Navy DCGS
+PEO C4I,Littoral Battlespace Sensing - Unmanned Undersea Vehicles (LBS-UUV),Autonomy/ISR,Navy,Autonomous undersea sensing
+PEO C4I,Electromagnetic Maneuver Warfare Integrated Fires (EMWIF),EW/Fires,Navy,Electromagnetic maneuver warfare
+PEO C4I,PMW 130 Cybersecurity Program Office,Cyber,Navy,Navy cybersecurity
+PEO C4I,PMW 150 Naval Command and Control Systems,C2,Navy,Naval C2 systems
+PEO C4I,PMW 160 Tactical Networks,Networks,Navy,Tactical networking
+PEO C4I,CANES Consolidated Afloat Networks and Enterprise Services,Networks,Navy,Afloat networks
+PEO C4I,PMW/A 170 Communications & GPS Navigation,RF/PNT,Navy,Communications and GPS
+PEO C4I,PMW 770 Undersea Communications and Integration,Comms,Navy,Undersea communications
+PEO U&W,PEO Unmanned Aviation and Strike Weapons,Autonomy,Navy,Unmanned aviation acquisition
+PEO U&W,PMA-262 Persistent Maritime Unmanned Aircraft Systems,Autonomy/ISR,Navy,MQ-4C Triton and persistent UAS
+PEO U&W,PMA-263 Navy and Marine Small Tactical Unmanned Air Systems,Autonomy,Navy,Small tactical UAS
+PEO U&W,PMA-266 Multi-Mission Tactical UAS,Autonomy,Navy,MQ-9A Reaper and tactical UAS
+PEO U&W,PMA-268 Unmanned Carrier Aviation,Autonomy,Navy,Carrier-based unmanned aviation
+PEO U&W,Unmanned Carrier Aviation Mission Control System (UMCS),Autonomy/C2,Navy,Unmanned carrier aviation C2
+PEO U&W,PMA-281 Strike Planning and Execution Systems,C2,Navy,Strike planning systems
+PEO U&W,CCS Unmanned System Common Control System,Autonomy/C2,Navy,Common unmanned control system
+PEO Tactical Aircraft,PMA 234 Airborne Electronic Attack Systems,Electronic Warfare,Navy,Electronic attack systems
+PEO Tactical Aircraft,Next Generation Jammer,Electronic Warfare,Navy,NGJ electronic attack pod
+PEO Tactical Aircraft,ALQ-231 Intrepid Tiger Pod,Electronic Warfare,Navy,Intrepid Tiger EW pod
+PEO Tactical Aircraft,PMA 265 F/A-18 and EA-18G Program Office,EW/Aviation,Navy,EA-18G Growler program
+PEO Tactical Aircraft,PMA-272 Advanced Tactical Aircraft Protection Systems,Electronic Warfare,Navy,Aircraft protection systems
+PEO Tactical Aircraft,Integrated Defensive Electronic Countermeasures (IDECM),Electronic Warfare,Navy,Defensive EW countermeasures
+PEO Tactical Aircraft,PMA-209 Air Combat Electronics,Avionics,Navy,Combat avionics and electronics
+PEO Tactical Aircraft,Sensors Low Probability of Intercept Altimeter (LPIA),Sensors/RF,Navy,LPI sensors
+PEO Digital,PEO Digital and Enterprise Services,Digital,Navy,Digital services acquisition
+PEO Digital,Joint Worldwide Intelligence Communication System (JWICS) Modernization,Intelligence,Navy,JWICS modernization
+PEO Digital,Joint Deployable Intelligence Support System (JDISS),Intelligence,Navy,Deployable intel systems
+PEO Digital,Global Command and Control System (GCCS) I3,C2,Navy,GCCS integration
+Marine Corps,Tactical Communications and Electronic Warfare Systems,EW/Comms,USMC,Marine EW and tactical comms
+Marine Corps,DC I Information,Information Warfare,USMC,Marine information warfare
+Marine Corps,Command Control Communications and Computers (IC4),C4,USMC,Marine C4 systems
+Marine Corps,Intelligence Division,Intelligence,USMC,Marine intelligence
+Marine Corps,Information Operations Center,Information Ops,USMC,Marine information operations
+PMM 202,Marine Air Ground Task Force Command & Control System,C2,USMC,MAGTF C2
+PMM 202,Air Battle Management & Sensor Netting (ABM&SN),C2/Sensors,USMC,Air battle management and sensor integration
+PMM 203,Expeditionary Radars (PM EXR),Radar/RF,USMC,Marine expeditionary radars
+PMM 208,Ground Based Air Defense (PM GBAD),AMD/Sensors,USMC,Marine air defense
+PMM 208,Marine Air Defense Integrated System (MADIS),C-UAS/AMD,USMC,Counter-UAS and air defense
+PMM 208,Light Marine Air Defense Integrated System (L-MADIS),C-UAS,USMC,Light counter-UAS system
+PMM 211,Intelligence Systems and Cyberspace Operations (PM INTEL CO),Intelligence/Cyber,USMC,Marine intel and cyber
+PMM 211,Distributed Common Ground System-Marine Corps,ISR,USMC,Marine DCGS
+PMM 211,Family of Integrated Targeting and Exploitation,ISR/Targeting,USMC,Targeting systems
+PMM 211,Marine Corps Cyberspace Operations,Cyber,USMC,Marine cyber operations
+MCCDC,Marine Corps Warfighting Laboratory (MCWL),Research,USMC,Marine warfighting lab
+MCCDC,Marine Corps Warfighting Laboratory Rapid Capabilities Office,Rapid Acquisition,USMC,Marine rapid capabilities
+Air Force,A2 Intelligence AF/A2,Intelligence,Air Force,Air Force intelligence
+Air Force,AF/A2-A6O Intelligence Surveillance and Reconnaissance,ISR,Air Force,Air Force ISR
+Air Force,A6 Warfighter Communications and Cyber Systems AF/A6,Cyber/Comms,Air Force,Air Force communications and cyber
+Air Force,Chief Data and AI Office (CND),AI/Data,Air Force,Air Force data and AI office
+Air Force,Chief Information Security Officer (CNZ),Cyber,Air Force,Air Force CISO
+Air Force,Space Development Agency (SDA),Space/RF,Air Force,Space Development Agency
+AFLCMC,PEO Command Control Communications (C3) and Battle Management,C3BM,Air Force,Air Force C3 and battle management
+AFLCMC,Advanced Battle Management System (ABMS),C2/Integration,Air Force,Advanced battle management
+AFLCMC,Aerial Networks Division,Networks/RF,Air Force,Aerial networking
+AFLCMC,Command Control Intelligence Surveillance and Reconnaissance (C2ISR),C2ISR,Air Force,C2ISR systems
+AFLCMC,Kessel Run,Software/AI,Air Force,Software factory
+AFLCMC,PEO Electronic Systems Directorate (HB),Electronics,Air Force,Electronic systems acquisition
+AFLCMC,Electronics Warfare,Electronic Warfare,Air Force,Air Force EW systems
+AFLCMC,Force Protection,Force Protection,Air Force,Force protection systems
+AFLCMC,Combat Avionics,Avionics,Air Force,Combat avionics systems
+AFLCMC,Theater Battle Control,C2,Air Force,Theater battle control
+AFLCMC,PEO Cyber and Networks Directorate (HN),Cyber/Networks,Air Force,Cyber and networks acquisition
+AFLCMC,Cryptologic & Cyber Systems Division,Crypto/Cyber,Air Force,Cryptologic and cyber systems
+AFLCMC,C3I Infrastructure Division,C3I,Air Force,C3I infrastructure
+AFLCMC,C3I&N Special Programs Division,Special Programs,Air Force,Special C3I programs
+AFLCMC,PEO Intelligence Surveillance and Reconnaissance and SOF Directorate (WI),ISR,Air Force,ISR systems acquisition
+AFLCMC,High Altitude ISR Systems,ISR,Air Force,High altitude ISR
+AFLCMC,Medium Altitude UAS,Autonomy/ISR,Air Force,Medium altitude unmanned systems
+AFLCMC,ISR Sensors and FMS,Sensors,Air Force,ISR sensors
+AFLCMC,E-3 AWACS and Wedgetail,Radar/C2,Air Force,Airborne warning and control
+AFNWC,PEO Nuclear Command Control & Comms Integration Directorate (NC3),NC3,Air Force,Nuclear C3
+AFRL,Sensors Directorate (RY),Sensors/RF,Air Force,Sensor research
+AFRL,Directed Energy Directorate (RD),Directed Energy,Air Force,Directed energy research
+AFRL,Information Directorate (RI),Information/AI,Air Force,Information technology research
+AFRL,Integrated Capabilities Directorate (RS),Integration,Air Force,Integrated capabilities research
+AFRL,Space Vehicles Directorate (RV),Space,Air Force,Space vehicle research
+AFWERX,AFWERX (RG),Innovation,Air Force,Air Force innovation hub
+Space Force,S-2 Intelligence,Intelligence,Space Force,Space Force intelligence
+Space Force,S-6 Cyber and Data,Cyber/Data,Space Force,Space Force cyber
+Space Force,PEO Space Rapid Capabilities Office,Rapid Acquisition,Space Force,Space rapid capabilities
+Space Force,Delta 2 - Space Domain Awareness,Space/ISR,Space Force,Space domain awareness
+Space Force,Delta 3 - Space Electromagnetic Warfare,Electronic Warfare,Space Force,Space EW operations
+Space Force,Delta 4 - Missile Warning,Sensors/ISR,Space Force,Missile warning operations
+Space Force,Delta 6 - Cyberspace Warfare,Cyber,Space Force,Space cyberspace operations
+Space Force,Space Delta 7 - ISR and Targeting,ISR,Space Force,Space ISR and targeting
+Space Force,Delta 8 - Satellite Communications,SATCOM/RF,Space Force,Satellite communications
+Space Force,Delta 9 - Orbital Warfare,Space,Space Force,Orbital warfare operations
+SSC,PEO Space Sensing (SSC/SN),Sensors/Space,Space Force,Space sensing acquisition
+SSC,Space Sensing System Delta 84,Sensors,Space Force,Space sensing systems
+SSC,Space Domain Awareness (SDA) System Delta 85,ISR,Space Force,Space domain awareness systems
+SSC,Sensing and Targeting (SBST) System Delta 810,Sensors/Targeting,Space Force,Space sensing and targeting
+SSC,Space Delta 831 - Positioning Navigation and Timing (PNT),PNT/RF,Space Force,Space PNT
+SSC,PEO Domain Awareness and Combat Power (CP),Space/EW,Space Force,Domain awareness and combat power
+SSC,Electromagnetic Warfare Systems Delta,Electronic Warfare,Space Force,Space EW systems acquisition
+SSC,Defense Cyber Ops Advanced Global Capabilities,Cyber,Space Force,Advanced cyber capabilities
+SSC,Orbital Warfare Acquisition Delta,Space,Space Force,Orbital warfare acquisition
+SSC,Space Surveillance and Reconnaissance,ISR,Space Force,Space surveillance
+SSC,PEO Battle Management Command Control & Comms (BMC3I),C3,Space Force,Space battle management
+SSC,Battlespace Awareness,ISR,Space Force,Space battlespace awareness
+SSC,Rapid Resilient Command and Control,C2,Space Force,Rapid resilient C2
+SSC,Global Mission Data Dominance,Data,Space Force,Mission data dominance
+SSC,PEO Military Comms & Positioning Navigation and Timing (MCPNT),Comms/PNT,Space Force,Military comms and PNT
+SSC,Protected TACTICAL SATCOM (PTS),SATCOM/RF,Space Force,Protected tactical SATCOM
+SSC,Wideband Satellite Communications,SATCOM/RF,Space Force,Wideband SATCOM
+SSC,Narrowband Satellite Communications,SATCOM/RF,Space Force,Narrowband SATCOM
+SSC,Protected Satellite Communications,SATCOM/RF,Space Force,Protected SATCOM
+SSC,Ground-Based Electro-Optical Deep Space Surveillance,ISR/Sensors,Space Force,Ground-based space surveillance
+SSC,Global Positioning System,PNT/RF,Space Force,GPS operations
+SOCOM,SOF-ATL Defense Autonomous Warfare Group (DAWG),Autonomy,SOCOM,SOCOM autonomous warfare
+SOCOM,SOCOM Science and Technology Directorate,S&T,SOCOM,SOCOM science and technology
+SOCOM,J-6 Communications Command Control and Computer (C4),C4,SOCOM,SOCOM C4
+SOCOM,Directorate of Enterprise Information Systems (SOF DIR-EIS),Information Systems,SOCOM,SOCOM information systems
+SOCOM,C4IAS - Command Control Communications Computers Automation and Information,C4I,SOCOM,SOCOM C4I systems
+SOCOM,C2ISR-T - Command and Control Intelligence Surveillance Reconnaissance-Transport,C2ISR,SOCOM,SOCOM C2ISR transport
+SOCOM,SOCRATES - SOC Research Analysis and Threat Information,Intelligence,SOCOM,SOCOM threat analysis
+PEO-FW,SOF PEO Fixed Wing,Aviation,SOCOM,SOCOM fixed wing aircraft
+PEO-FW,Airborne ISR & Non-standard Aviation Division,ISR,SOCOM,SOCOM airborne ISR
+PEO-FW,Emerging Technology Division,Emerging Tech,SOCOM,SOCOM emerging tech
+PEO-SDA,SOF PEO Digital Applications,Digital,SOCOM,SOCOM digital applications
+PEO-SDA,SOF Digital Ecosystem,Digital,SOCOM,SOF digital ecosystem
+PEO-TIS,SOF PEO Tactical Information Systems,Information Systems,SOCOM,SOCOM tactical information systems
+PEO-SW,SOF PEO Special Operations Forces Warrior,Warrior Systems,SOCOM,SOCOM warrior systems
+PEO-M,SOF PEO Maritime,Maritime,SOCOM,SOCOM maritime systems
+PEO-M,Undersea Systems,Undersea/Autonomy,SOCOM,SOCOM undersea systems
+INDOPACOM,J2 - Intelligence Directorate,Intelligence,INDOPACOM,INDOPACOM intelligence
+INDOPACOM,J6 - Command Control Communications and Cyber Directorate,C4/Cyber,INDOPACOM,INDOPACOM C4 and cyber
+CENTCOM,J2 - Intelligence,Intelligence,CENTCOM,CENTCOM intelligence
+CENTCOM,J6 Cyber,Cyber,CENTCOM,CENTCOM cyber
+CENTCOM,Office of the Chief Technology Officer,Technology,CENTCOM,CENTCOM CTO
+EUCOM,J2 Intelligence,Intelligence,EUCOM,EUCOM intelligence
+EUCOM,J6 Cyber Command Control Communications,C4/Cyber,EUCOM,EUCOM C4 and cyber
+STRATCOM,J2 - Intelligence,Intelligence,STRATCOM,STRATCOM intelligence
+STRATCOM,Joint Electromagnetic Spectrum Operations (JEMSO),Spectrum/EW,STRATCOM,Joint spectrum operations
+STRATCOM,Joint Electromagnetic Operations Center (JEC),EW/Spectrum,STRATCOM,Joint EM operations center
+STRATCOM,NEC - Nuclear Command Control and Communications (NC3) Enterprise Center,NC3,STRATCOM,NC3 enterprise center
+SPACECOM,J2 Director of Intelligence,Intelligence,SPACECOM,SPACECOM intelligence
+SPACECOM,J6 - Digital Superiority Directorate,Digital/Cyber,SPACECOM,SPACECOM digital superiority
+SPACECOM,Army Space & Missile Defense Command,Space/AMD,SPACECOM,Army space component
+SPACECOM,Navy Space Command,Space,SPACECOM,Navy space component
+CYBERCOM,CYBERCOM Headquarters Staff,Cyber,CYBERCOM,US Cyber Command
+CYBERCOM,J2 Intelligence,Cyber/Intel,CYBERCOM,CYBERCOM intelligence
+CYBERCOM,J3 Operations,Cyber,CYBERCOM,CYBERCOM operations
+CYBERCOM,J-6 Command Control Communications & Computers/Cyber,C4/Cyber,CYBERCOM,CYBERCOM C4
+DOE,Office of Artificial Intelligence and Quantum (AIQ),AI/Quantum,DOE,DOE AI and quantum office
+DOE,National Quantum Information Science Research Centers,Quantum,DOE,Quantum research centers
+DOE,Quantum Science Center (QSC),Quantum,DOE,Oak Ridge quantum center
+DOE,Quantum Systems Accelerator (QSA),Quantum,DOE,Lawrence Berkeley quantum center
+OTA Consortium,SCEC - Sensors Communications and Electronics Consortium,Sensors/RF,Consortium,Sensors and electronics OTA
+OTA Consortium,C5 - Consortium C4ISR and cyber technology sectors,C4ISR/Cyber,Consortium,C4ISR and cyber OTA
+OTA Consortium,S2MARTS - Strategic & Spectrum Missions Advanced Resilient Trusted Systems,Spectrum,Consortium,Strategic spectrum OTA
+OTA Consortium,NSC - National Spectrum Consortium,Spectrum/RF,Consortium,National spectrum OTA
+OTA Consortium,IWRP - Information Warfare Research Project Consortium,Information Warfare,Consortium,IW research OTA
+OTA Consortium,SpEC - Space Enterprise Consortium,Space,Consortium,Space enterprise OTA
+OTA Consortium,UTIC - Undersea Technology Innovation Consortium,Undersea,Consortium,Undersea technology OTA
